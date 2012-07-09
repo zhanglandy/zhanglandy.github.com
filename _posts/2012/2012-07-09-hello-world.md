@@ -1,6 +1,4 @@
 ---
-layout: post
+layout: default
 published: false
 ---
-## 你好，世界。
-
