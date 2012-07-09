@@ -52,3 +52,4 @@ Quartz（Core Graphics）坐标系使用的右手坐标系,原点在左下角,�
 #### 4.CALayer坐标系
 这个有些变态了，其坐标系和平台有关，在Mac中CALayer使用的是右手坐标系，其原点在左下角；iOS中使用的左手坐标系，其原点在左上角。
 参见 [Layer Coordinate System](http://developer.apple.com/library/ios/#DOCUMENTATION/Cocoa/Conceptual/CoreAnimation_guide/Articles/Layers.html#//apple_ref/doc/uid/TP40006082-SW1)
+
