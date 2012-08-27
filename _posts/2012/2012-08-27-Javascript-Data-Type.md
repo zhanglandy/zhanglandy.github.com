@@ -2,6 +2,7 @@
 layout: post
 published: true
 categories:javascript
+title:Javascript 数据类型
 ---
 
 # Javascript 数据类型 #
